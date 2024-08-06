@@ -16,6 +16,7 @@ Retrieve Precipitation Data: Queried precipitation data for the last 12 months.
 Data Handling: Loaded data into a Pandas DataFrame, set column names, sorted values by date, and printed summary statistics.
 Visualization: Plotted the precipitation data using matplotlib to do a simple bar plot. 
 ![Precipitation Plot](https://github.com/mariemsdiaz/sqlalchemy_challenge/blob/main/Hawaii_Vacation/PrecipitationPlot.png)
+
 Station Analysis:
 Total Number of Stations: Queried the total number of stations in the dataset.
 Most-Active Stations: Identified the station with the highest number of observations.
